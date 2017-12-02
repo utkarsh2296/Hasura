@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "991848088172",
+    "firebase_url": "https://hasura-021217.firebaseio.com",
+    "project_id": "hasura-021217",
+    "storage_bucket": "hasura-021217.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991848088172:android:12e2fc0ebbcb0852",
+        "android_client_info": {
+          "package_name": "rajhack.hasura.utkarshdubey.hasura"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991848088172-oj6rb7pcpp9807mcacbv2uvhgou2ru0n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "rajhack.hasura.utkarshdubey.hasura",
+            "certificate_hash": "18f3b731d2c790a76555d0356ec64060fdb6fd61"
+          }
+        },
+        {
+          "client_id": "991848088172-8mejpcfniobkgaks7sgb1ndfk30rseal.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAikGBYVZfNfYJT9N7f6faz2O4DfJ91A-w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991848088172-8mejpcfniobkgaks7sgb1ndfk30rseal.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
